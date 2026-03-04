@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MS, Aerospace Engineering. Independent researcher, programmer, and applied category theorist.
 
 profile:
   align: right

@@ -7,6 +7,29 @@ cv:
       username: drewmcneely
 
   sections:
+
+    Education:
+      - institution: University of Texas at Austin
+        location: Austin, TX
+        area: Aerospace Engineering
+        degree: MS
+        end_date: 2023-05
+        highlights:
+          - "Thesis: *Categorical Probability for Abstracting Filtering Algorithms on Stochastic Dynamical Systems*"
+          - "Advisor: Efstathios Bakolas"
+
+      - institution: Missouri University of Science & Technology
+        location: Rolla, MO
+        area: Aerospace Engineering
+        degree: BS
+        end_date: 2015-12
+
+      - institution: Missouri University of Science & Technology
+        location: Rolla, MO
+        area: Mechanical Engineering
+        degree: BS
+        end_date: 2015-12
+
     Publications:
       - title: Hidden Markov Models and the Bayes Filter in Categorical Probability
         authors:
@@ -128,28 +151,6 @@ cv:
         end_date: 2017-07
         highlights:
           - Constrained optimal control for Variable Camber Continuous Trailing Edge Flap aircraft
-
-    Education:
-      - institution: University of Texas at Austin
-        location: Austin, TX
-        area: Aerospace Engineering
-        degree: MS
-        end_date: 2023-05
-        highlights:
-          - "Thesis: *Categorical Probability for Abstracting Filtering Algorithms on Stochastic Dynamical Systems*"
-          - "Advisor: Efstathios Bakolas"
-
-      - institution: Missouri University of Science & Technology
-        location: Rolla, MO
-        area: Aerospace Engineering
-        degree: BS
-        end_date: 2015-12
-
-      - institution: Missouri University of Science & Technology
-        location: Rolla, MO
-        area: Mechanical Engineering
-        degree: BS
-        end_date: 2015-12
 
     Skills:
       - name: Programming Languages
