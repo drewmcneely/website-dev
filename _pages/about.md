@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS, Aerospace Engineering ○ Independent researcher in applied category theory ○ Mathematics teacher
+subtitle: MS, Aerospace Engineering ○ Independent researcher in applied category theory ○ High school mathematics teacher
 
 profile:
   align: right
